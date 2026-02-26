@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Video Keyword Search",
+  "description": "Search YouTube video subtitles using Google Sheets and Google Apps Script backend.",
+  "requestFramePermissions": []
+}
